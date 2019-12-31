@@ -1,1 +1,10 @@
+title: Harsh Thakur 
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br>People often call me tech savvy. <br>
+  Second description 
+  <br>Started my journey as a security enthusiast and now moving towards Devops related technology.  <br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-cayman
