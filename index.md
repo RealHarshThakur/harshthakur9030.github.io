@@ -1,5 +1,5 @@
-# Harsh Thakur
-## Things I worked/work on
+
+## Skillset 
 - DevSecOps related technology
 - Developer(API, backend)
 - Deploying Cloud Native Applications
