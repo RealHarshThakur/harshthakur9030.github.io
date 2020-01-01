@@ -45,6 +45,9 @@
 - Android
 
 
+[Read my blog posts here](https://medium.com/harsh-thakur)
+[View my Linkedin Profile here](https://www.linkedin.com/in/harsh-thakur-499096158/)
+[Catch me at Twitter](https://twitter.com/harsh_thakur_1)
 
 
 
