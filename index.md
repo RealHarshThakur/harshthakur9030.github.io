@@ -12,7 +12,7 @@
 
 ---
 # Tech Stack 
-## Cloud Native Projects 
+## Some of the Cloud Native Projects and tools/technologies I'm familiar with: 
 - Kubernetes 
 - Helm
 - Docker
